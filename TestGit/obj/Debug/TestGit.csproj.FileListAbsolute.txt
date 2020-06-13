@@ -1,0 +1,15 @@
+D:\project\TestGit\TestGit\bin\Debug\TestGit.exe.config
+D:\project\TestGit\TestGit\bin\Debug\TestGit.exe
+D:\project\TestGit\TestGit\bin\Debug\TestGit.pdb
+D:\project\TestGit\TestGit\obj\Debug\TestGit.csprojAssemblyReference.cache
+D:\project\TestGit\TestGit\obj\Debug\MainWindow.g.cs
+D:\project\TestGit\TestGit\obj\Debug\App.g.cs
+D:\project\TestGit\TestGit\obj\Debug\TestGit_MarkupCompile.cache
+D:\project\TestGit\TestGit\obj\Debug\TestGit_MarkupCompile.lref
+D:\project\TestGit\TestGit\obj\Debug\MainWindow.baml
+D:\project\TestGit\TestGit\obj\Debug\TestGit.g.resources
+D:\project\TestGit\TestGit\obj\Debug\TestGit.Properties.Resources.resources
+D:\project\TestGit\TestGit\obj\Debug\TestGit.csproj.GenerateResource.cache
+D:\project\TestGit\TestGit\obj\Debug\TestGit.csproj.CoreCompileInputs.cache
+D:\project\TestGit\TestGit\obj\Debug\TestGit.exe
+D:\project\TestGit\TestGit\obj\Debug\TestGit.pdb
